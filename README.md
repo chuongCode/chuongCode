@@ -7,7 +7,7 @@ Computer science student and technology enthusiast with  a passion for empowerin
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 :shipit: CS @ [**University of Rochester**][ur]  
-:shipit: XR Specialist @ [**Studio X**][studiox]
+:shipit: XR Specialist @ [**Studio X**][studiox]  
 :shipit: SWE Research @ [**ROC Human-Computer Interaction Lab**][rochci]
 
 [ur]: https://rochester.edu
