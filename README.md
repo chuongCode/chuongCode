@@ -1,4 +1,4 @@
-# Hi, I'm Zach :wave:
+# Hi, I'm Richard :wave:
 
 Software engineering student and aspiring software entrepreneur with  
 a focus on modular software and clean code.
