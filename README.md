@@ -56,7 +56,7 @@ _Other interests: ⚽ soccer, 🎾 tennis,
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.linkedin.com/in/richard-chuong/">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
