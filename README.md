@@ -25,7 +25,7 @@ Computer science student and technology enthusiast with  a passion for empowerin
 
 _Favorite programming language: Python & Java 🐍☕_  
 _Other interests: ⚽ soccer, 🎾 tennis,
-👓 extended reality, 🖥️ video games._
+👓 extended reality, 🖥️ video games_
 
 ## Technologies
 
