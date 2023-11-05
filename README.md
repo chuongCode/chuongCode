@@ -41,7 +41,7 @@ _Other interests: ⚽ soccer, 🎾 tennis,
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <p align="center">
-    <b>Looking for a software engineering intern?
+    <b>Looking for a software engineering/information technology intern?
         <a href="https://www.linkedin.com/in/richard-chuong/">I'd love to connect! 😄</a>
     </b>
 </p>
