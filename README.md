@@ -1,6 +1,6 @@
 # Hey, I'm Richard 👐
 
-Computer science student and technology enthusiast with  a passion for empowering individuals, organizations, and entire communities to thrive in our increasingly digital landscape.  
+Computer science student at the University of Rochester and technology enthusiast with  a passion for empowering individuals, organizations, and entire communities to thrive in our increasingly digital landscape.  
 
 ## Life
 
