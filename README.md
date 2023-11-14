@@ -4,7 +4,7 @@ Computer science student at the University of Rochester and technology enthusias
 
 ## Life
 
-<img align="right" alt="Pepe dancing with beat sabers" width="350" src="img/BSpepeD.gif" />
+<img align="right" alt="Pepe dancing with beat sabers" width="350" src="img/BSpepeD_trans.gif" />
 
 :shipit: CS @ [**University of Rochester**][ur]  
 :shipit: XR Specialist @ [**Studio X**][studiox]  
