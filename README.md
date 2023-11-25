@@ -52,7 +52,7 @@ _Other interests: ⚽ soccer, 🎾 tennis,
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:richardschoolinquiries@gmail.com">
+<a href="mailto:chuongrichard@gmail.com">
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
