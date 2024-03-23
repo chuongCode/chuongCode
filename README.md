@@ -9,10 +9,12 @@ Computer science student at the University of Rochester and technology enthusias
 :shipit: CS @ [**University of Rochester**][ur]  
 :shipit: XR Specialist @ [**Studio X**][studiox]  
 :shipit: SWE Research @ [**ROC Human-Computer Interaction Lab**][rochci]
+:shipit: SWE Intern @ [**Stryker**][stryker]
 
 [ur]: https://rochester.edu
 [studiox]: https://studiox.lib.rochester.edu/about/
 [rochci]: https://roc-hci.com/
+[stryker]: https://www.stryker.com/us/en/index.html
 
 ## Languages
 
@@ -42,7 +44,7 @@ _Other interests: ⚽ soccer, 🎾 tennis,
 ![UE5](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 <p align="center">
-    <b>Looking for a software engineering/information technology intern?
+    <b>Looking for a software engineer/developer?
         <a href="https://www.linkedin.com/in/richard-chuong/">I'd love to connect! 😄</a>
     </b>
 </p>
