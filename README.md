@@ -25,7 +25,7 @@ Computer science student at the University of Rochester and technology enthusias
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-_Favorite programming language: Python & Java 🐍☕_  
+_Favorite programming languages: Python & Java 🐍☕_  
 _Other interests: ⚽ soccer, 🎾 tennis,
 👓 extended reality, 🖥️ video games_
 
