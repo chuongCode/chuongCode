@@ -7,7 +7,7 @@ Computer science student at the University of Rochester and technology enthusias
 <img align="right" alt="Pepe dancing with beat sabers" width="350" src="img/blackmage.gif" />
 
 :shipit: CS @ [**University of Rochester**][ur]  
-:shipit: XR Specialist @ [**Studio X**][studiox]  
+:shipit: AR/VR Specialist @ [**Studio X**][studiox]  
 :shipit: Research @ [**ROC Human-Computer Interaction Lab**][rochci]  
 :shipit: SWE Intern @ [**Stryker**][stryker]
 
