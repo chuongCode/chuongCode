@@ -8,7 +8,7 @@ Computer science student at the University of Rochester and technology enthusias
 
 :shipit: CS @ [**University of Rochester**][ur]  
 :shipit: XR Specialist @ [**Studio X**][studiox]  
-:shipit: SWE Research @ [**ROC Human-Computer Interaction Lab**][rochci]  
+:shipit: Research @ [**ROC Human-Computer Interaction Lab**][rochci]  
 :shipit: SWE Intern @ [**Stryker**][stryker]
 
 [ur]: https://rochester.edu
