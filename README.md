@@ -9,7 +9,7 @@ Computer science student at the University of Rochester and technology enthusias
 :shipit: CS @ [**University of Rochester**][ur]  
 :shipit: AR/VR Specialist @ [**Studio X**][studiox]  
 :shipit: Research @ [**ROC Human-Computer Interaction Lab**][rochci]  
-:shipit: SWE Intern @ [**Stryker**][stryker]
+:shipit: SWE Intern @ [**Stryker**][stryker]  
 :shipit: SDE Intern @ [**UR Medicine Motion Labs**][urmc]
 
 [ur]: https://rochester.edu
