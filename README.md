@@ -8,13 +8,12 @@ Computer science student at the University of Rochester and technology enthusias
 
 :shipit: CS @ [**University of Rochester**][ur]  
 :shipit: AR/VR Specialist @ [**Studio X**][studiox]  
-:shipit: Research @ [**ROC Human-Computer Interaction Lab**][rochci]
+:shipit: Research @ [**ROC Human-Computer Interaction Lab**][rochci]  
 :shipit: Dev @ [**UR Medicine Motion Labs**][urmc]
 
 [ur]: https://rochester.edu
 [studiox]: https://www.library.rochester.edu/spaces/studio-x
 [rochci]: https://roc-hci.com/
-[stryker]: https://www.stryker.com/us/en/index.html
 [urmc]: https://www.urmc.rochester.edu/conditions-and-treatments/motion-labs
 
 ## Languages
